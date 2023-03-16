@@ -1,0 +1,16 @@
+th, td{
+    text-align: center;
+    vertical-align: middle;
+    font-size: 150%;
+}
+
+td img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 60%;
+}
+
+td img{
+    border-radius: 100%;
+    box-shadow: 5px 5px 5px rgb(167, 167, 167);
+}
