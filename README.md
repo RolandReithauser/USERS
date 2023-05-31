@@ -1,4 +1,4 @@
 # USERS
 API gyakorlás
 
-https://rolandreithauser.github.io/USERS/#
+https://rolandreithauser.github.io/USERS/
